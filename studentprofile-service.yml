@@ -1,9 +1,6 @@
 server:
   port: 8084
 
-Spring:
-  application:
-    name: USER-SERVICE
 
 
 spring:
